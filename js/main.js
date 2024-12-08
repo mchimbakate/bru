@@ -1,11 +1,3 @@
-/* 
-
-Vanilla Template
-
-https://templatemo.com/tm-526-vanilla
-
-*/
-
 jQuery(document).ready(function($) {
 
 	'use strict';
@@ -24,7 +16,6 @@ jQuery(document).ready(function($) {
         offset: 200
     });
       
-      // smoothscroll on sidenav click
 
     $('.tabgroup > div').hide();
         $('.tabgroup > div:first-of-type').show();
